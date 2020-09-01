@@ -18,6 +18,8 @@ The questions above can be solved analytically, resulting into:
 2. `a=1/4, a=3/4`
 3. `a=1/5, a=4/5`
 
+where `a` and `b` are the numbers chosen by players A and B, respectively. 
+
 The code provided as a Jupyter notebook addresses numerically all of the questions above.
 
 The solution strategy of this sequential game is by **backward induction**.
