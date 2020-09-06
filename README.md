@@ -15,7 +15,7 @@ Also assume that if one of them has several optimal choices, then that player wi
 The first two questions can be solved analytically, resulting into:
 
 1. `b=2/3`
-2. `a=1/4' or 'a=3/4`
+2. `a=1/4` or `a=3/4`
 
 where `a` and `b` are the numbers chosen by players A and B, respectively.
 
