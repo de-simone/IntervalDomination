@@ -1,4 +1,4 @@
-# Pick the Closest Number Game
+# Domination of [0,1] interval
 
 **Numerical solution to the following puzzle**
 
